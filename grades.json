@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "studentId": 1,
+    "class": "Finance",
+    "grade": "A"
+  },
+  {
+    "id": 2,
+    "studentId": 1,
+    "class": "Science",
+    "grade": "B+"
+  },
+  {
+    "id": 3,
+    "studentId": 1,
+    "class": "Math",
+    "grade": "A-"
+  },
+  {
+    "id": 4,
+    "studentId": 2,
+    "class": "Finance",
+    "grade": "A+"
+  },
+  {
+    "id": 5,
+    "studentId": 2,
+    "class": "Science",
+    "grade": "A-"
+  },
+  {
+    "id": 6,
+    "studentId": 2,
+    "class": "Math",
+    "grade": "A"
+  }
+]
